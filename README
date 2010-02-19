@@ -1,0 +1,10 @@
+
+beanstalkw provides some helper classes needed when writing workers 
+for jobs placed on a beanstalkd server
+
+beanstalkw depends on beanstalkc[1]
+
+[1] http://github.com/earl/beanstalkc 
+
+Copyright (c) 2010 Andrei Savu, Licensed under Apache License 2.0
+
